@@ -1,0 +1,16 @@
+body {
+	background-color: lightblue;
+}
+
+div {
+	background-color: red;
+	border:20px solid darkred;
+	border-style: dashed;
+	width: 300px;
+	height: 200px;
+}
+
+p {
+	font-size: 20px;
+	padding-left: 10px;
+}
